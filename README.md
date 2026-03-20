@@ -1,2 +1,3 @@
-# open-video-platform-keam
-Repository to test GitHub automation for issue management
+# Open Video Platform Keam
+
+A repository to test GitHub automation for issue management.
